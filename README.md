@@ -71,7 +71,7 @@ Whether it’s improving gameplay, adding AI, or enhancing visuals, all contribu
 
 Made with ❤️ by Souhardya Mridha [@Rio7-codes]
 
-===
+---
 
 ## 📝 License
 
