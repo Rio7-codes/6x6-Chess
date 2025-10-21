@@ -6,19 +6,6 @@ This project is designed for learning **Python GUI development**, **game logic**
 ---
 
 
-## 📚 Table of Contents
-
-- [About](#about)
-- [Features](#features)
-- [Installation](#installation)
-- [How to Run](#how-to-run)
-- [Gameplay](#gameplay)
-- [Contributing](#contributing)
-- [Author](#author)
-- [License](#license)
-
----
-
 ## 🧩 About
 
 6x6 Chess is a mini version of the traditional chess game with a smaller board and simplified rules.  
