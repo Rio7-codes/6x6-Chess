@@ -36,6 +36,8 @@ git clone https://github.com/Rio7-codes/6x6-Chess.git
 
 Run the game using Python:
 ```bash
+cd "Folder Path"
+venv\Scripts\activate
 python main.py
 ```
 - Drag and drop pieces to move them.
