@@ -17,7 +17,6 @@ This project is designed for learning **Python GUI development**, **game logic**
 - [Author](#author)
 - [License](#license)
 
-
 ---
 
 ## 🧩 About
