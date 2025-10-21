@@ -7,14 +7,17 @@ This project is designed for learning **Python GUI development**, **game logic**
 
 ## 📚 Table of Contents
 
-- [About](#About) 🧩
-- [Features](#Features) 🚀 
-- [Installation](#Installation) 💻 
-- [How to Run](#How-to-run) ▶️
-- [Gameplay](#Gameplay) ♟️ 
-- [Contributing](#Contributing) 🤝
-- [Author](#Author) 👤
-- [License](#License) 📝 
+## 📚 Table of Contents
+
+- [About](#🧩-about)
+- [Features](#🚀-features)
+- [Installation](#💻-installation)
+- [How to Run](#▶️-how-to-run)
+- [Gameplay](#♟️-gameplay)
+- [Contributing](#🤝-contributing)
+- [Author](#👤-author)
+- [License](#📝-license)
+
 
 ---
 
@@ -45,6 +48,7 @@ git clone https://github.com/Rio7-codes/6x6-Chess.git
 ```
 
 ## ▶️ How to Run 
+
 Run the game using Python:
 ```bash
 python main.py
@@ -55,6 +59,7 @@ python main.py
 
 
 ## ♟️ Gameplay
+
 - Each player moves one piece at a time.
 - Standard chess movement rules apply for each piece.
 - The smaller 6x6 board allows quicker matches.
@@ -62,6 +67,7 @@ python main.py
 
 
 ## 🤝 Contributing
+
 Contributions are welcome! You can:
 - Report bugs or issues
 - Suggest improvements
@@ -69,9 +75,11 @@ Contributions are welcome! You can:
 Whether it’s improving gameplay, adding AI, or enhancing visuals, all contributions are appreciated.
 
 ## 👤 Author
+
 Made with ❤️ by Souhardya Mridha [@Rio7-codes]
 
 ## 📝 License
+
 MIT License
 
 Copyright (c) 2025 Rio7-codes
