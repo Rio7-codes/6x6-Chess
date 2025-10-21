@@ -5,19 +5,20 @@ This project is designed for learning **Python GUI development**, **game logic**
 
 ---
 
-## Table of Contents
+## 📚 Table of Contents
 
-- [About](#about)  
-- [Features](#features)  
-- [Installation](#installation)  
-- [How to Run](#how-to-run)  
-- [Gameplay](#gameplay)  
-- [Contributing](#contributing)  
-- [License](#license)  
+- [About](#about) 🧩
+- [Features](#features) 🚀 
+- [Installation](#installation) 💻 
+- [How to Run](#how-to-run) ▶️
+- [Gameplay](#gameplay) ♟️ 
+- [Contributing](#contributing) 🤝
+- [Author](#author) 👤
+- [License](#license) 📝 
 
 ---
 
-## About
+## 🧩 About
 
 6x6 Chess is a mini version of the traditional chess game with a smaller board and simplified rules.  
 It includes all standard chess pieces: **King, Queen, Rook, Bishop, Knight, and Pawn**.  
@@ -25,7 +26,7 @@ The game focuses on faster matches while maintaining the core chess strategy and
 
 ---
 
-## Features
+## 🚀 Features
 
 - Interactive 6x6 chess board  
 - Drag-and-drop functionality for moving pieces  
@@ -35,7 +36,7 @@ The game focuses on faster matches while maintaining the core chess strategy and
 
 ---
 
-## Installation
+## 💻 Installation
 
 1. Clone the repository:
 
@@ -43,7 +44,7 @@ The game focuses on faster matches while maintaining the core chess strategy and
 git clone https://github.com/Rio7-codes/6x6-Chess.git
 ```
 
-## How to Run
+## ▶️ How to Run 
 Run the game using Python:
 ```bash
 python main.py
@@ -53,21 +54,24 @@ python main.py
 - Close the window to exit the game.
 
 
-## Gameplay
+## ♟️ Gameplay
 - Each player moves one piece at a time.
 - Standard chess movement rules apply for each piece.
 - The smaller 6x6 board allows quicker matches.
 - Ideal for practicing strategy and understanding chess mechanics on a smaller board.
 
 
-## Contributing
+## 🤝 Contributing
 Contributions are welcome! You can:
 - Report bugs or issues
 - Suggest improvements
 - Fork the repository and submit pull requests
 Whether it’s improving gameplay, adding AI, or enhancing visuals, all contributions are appreciated.
 
-## License
+## 👤 Author
+Made with ❤️ by Souhardya Mridha [@Rio7-codes]
+
+## 📝 License
 MIT License
 
 Copyright (c) 2025 Rio7-codes
