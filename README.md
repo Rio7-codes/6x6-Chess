@@ -32,6 +32,8 @@ The game focuses on faster matches while maintaining the core chess strategy and
 git clone https://github.com/Rio7-codes/6x6-Chess.git
 ```
 
+---
+
 ## ▶️ How to Run 
 
 Run the game using Python:
@@ -44,6 +46,7 @@ python main.py
 - The game ends when one player checkmates the opponent’s king.
 - Close the window to exit the game.
 
+---
 
 ## ♟️ Gameplay
 
@@ -52,6 +55,7 @@ python main.py
 - The smaller 6x6 board allows quicker matches.
 - Ideal for practicing strategy and understanding chess mechanics on a smaller board.
 
+---
 
 ## 🤝 Contributing
 
@@ -61,9 +65,13 @@ Contributions are welcome! You can:
 - Fork the repository and submit pull requests
 Whether it’s improving gameplay, adding AI, or enhancing visuals, all contributions are appreciated.
 
+---
+
 ## 👤 Author
 
 Made with ❤️ by Souhardya Mridha [@Rio7-codes]
+
+===
 
 ## 📝 License
 
@@ -88,3 +96,5 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+---
