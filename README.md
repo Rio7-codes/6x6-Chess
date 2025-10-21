@@ -1,7 +1,6 @@
 # 6x6 Chess♟️
 
-A simplified **6x6 chess game** built with **Python and Pygame**, featuring basic chess mechanics and interactive gameplay.  
-This project is designed for learning **Python GUI development**, **game logic**, and **event-driven programming** in a fun and visual way.
+A simplified **6x6 chess game** built with **Python and Pygame**, featuring basic chess mechanics and interactive gameplay. This project is designed for learning **Python GUI development**, **game logic**, and **event-driven programming** in a fun and visual way.
 
 ---
 
@@ -38,7 +37,7 @@ git clone https://github.com/Rio7-codes/6x6-Chess.git
 
 Run the game using Python:
 ```bash
-cd "Folder Path"
+cd Path
 venv\Scripts\activate
 python main.py
 ```
