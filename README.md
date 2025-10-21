@@ -1,4 +1,4 @@
-# 6x6 Chess ♟️
+# 6x6 Chess♟️
 
 A simplified **6x6 chess game** built with **Python and Pygame**, featuring basic chess mechanics and interactive gameplay.  
 This project is designed for learning **Python GUI development**, **game logic**, and **event-driven programming** in a fun and visual way.
