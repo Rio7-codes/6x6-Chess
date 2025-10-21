@@ -7,14 +7,14 @@ This project is designed for learning **Python GUI development**, **game logic**
 
 ## 📚 Table of Contents
 
-- [About](#about) 🧩
-- [Features](#features) 🚀 
-- [Installation](#installation) 💻 
-- [How to Run](#how-to-run) ▶️
-- [Gameplay](#gameplay) ♟️ 
-- [Contributing](#contributing) 🤝
-- [Author](#author) 👤
-- [License](#license) 📝 
+- [About](#About) 🧩
+- [Features](#Features) 🚀 
+- [Installation](#Installation) 💻 
+- [How to Run](#How-to-run) ▶️
+- [Gameplay](#Gameplay) ♟️ 
+- [Contributing](#Contributing) 🤝
+- [Author](#Author) 👤
+- [License](#License) 📝 
 
 ---
 
